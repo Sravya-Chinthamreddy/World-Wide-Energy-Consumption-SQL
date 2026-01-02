@@ -1,3 +1,7 @@
+-- World Wide Energy Consumption SQL Project
+-- This file contains table creation and analysis queries
+-- written by me for understanding real-world energy data.
+
 -- Create database
 CREATE DATABASE energyconsumption1;
 USE energyconsumption1;
